@@ -2,7 +2,6 @@
 
 ## Authors
 - [David kamweru](https://github.com/daviekish/hello-world-1.git)
-- Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
 To start using this project use the following commands:
